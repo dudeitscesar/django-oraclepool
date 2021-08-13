@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: django-oraclepool
-Version: 1.3
+Version: 1.3.1
 Summary: django database backend that uses cx_Oracle session pooling for connections
 Home-page: http://bitbucket.org/edcrewe/django-oraclepool
 Author: Ed Crewe, Taras Halturin

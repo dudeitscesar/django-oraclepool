@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.3'
+version = '1.3.1'
 
 setup(name='django-oraclepool',
       version=version,
@@ -17,9 +17,9 @@ setup(name='django-oraclepool',
         "Topic :: Software Development :: Libraries :: Python Modules",
         ],
       keywords='django oracle connection pooling cx_Oracle',
-      author='Ed Crewe, Taras Halturin',
-      author_email='ed.crewe@bris.ac.uk',
-      url='http://bitbucket.org/edcrewe/django-oraclepool',
+      author='Ed Crewe, Taras Halturin, Cesar Gonzalez',
+      author_email='github@dudeitscesar.com',
+      url='https://github.com/dudeitscesar/django-oraclepool',
       license='Apache',
       packages=['oraclepool'],
       include_package_data=True,
